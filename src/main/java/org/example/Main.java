@@ -18,6 +18,6 @@ public class Main {
     }
 
     public void goString(){
-        System.out.println("hello");
+        System.out.println("hello11111");
     }
 }
