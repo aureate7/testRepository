@@ -17,7 +17,8 @@ public class Main {
         }
     }
 
-    public void goString(){
+    public boolean goString(){
         System.out.println("hello");
+        return false;
     }
 }
